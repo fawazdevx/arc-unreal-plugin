@@ -8,7 +8,7 @@ If you want a deeper architectural explanation or to use your own contracts from
 
 I posted a short setup/demo video here (YouTube):
 - Video: https://youtu.be/5SD602T0Bvg
-- X: https://x.com/0xFawazdev
+- X: [https://x.com/0xFawazdev](https://x.com/0xFawazdev/status/2045287773179937144)
 
 This video shows:
 - Running the backend
