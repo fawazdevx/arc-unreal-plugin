@@ -7,7 +7,7 @@ If you want a deeper architectural explanation or to use your own contracts from
 ## Video walkthrough
 
 I posted a short setup/demo video here (X):
-- Video: https://x.com/<your_handle>/status/<tweet_id>
+- Video: https://x.com/0xFawadev
 
 This video shows:
 - Running the backend
