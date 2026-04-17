@@ -1,0 +1,26 @@
+{
+  "FileVersion": 3,
+  "Version": 1,
+  "VersionName": "1.0.0",
+  "FriendlyName": "ARC Blockchain Integration",
+  "Description": "ARC blockchain integration for Unreal Engine (Blueprint nodes + Node.js backend).",
+  "Category": "Online",
+  "CreatedBy": "fawazdevx",
+  "CreatedByURL": "https://github.com/fawazdevx",
+  "DocsURL": "https://github.com/fawazdevx/arc-unreal",
+  "EnabledByDefault": true,
+  "CanContainContent": true,
+  "IsBetaVersion": true,
+  "Modules": [
+    {
+      "Name": "ArcBlockchain",
+      "Type": "Runtime",
+      "LoadingPhase": "Default"
+    }
+  ],
+  "Plugins": [],
+  "SupportedTargetPlatforms": [
+    "Win64",
+    "Linux"
+  ]
+}
