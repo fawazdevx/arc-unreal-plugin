@@ -1,5 +1,7 @@
 # Unreal Engine plugin for @Arc (USDC + NFTs)
 
+![Demo](./arc-unreal.png)
+
 An Unreal Engine plugin + Node.js backend that makes it easy to build **onchain** game flows on **@Arc** using familiar Blueprint nodes.
 
 This project gives game developers:
