@@ -145,4 +145,6 @@ Next steps you can take:
 ---
 ## License
 
-MIT — see [`LICENSE`](./LICENSE).
+Apache-2.0 — see [`LICENSE`](./LICENSE).
+
+> Note: Earlier versions of this repository may have been released under the MIT License. See Git history/tags for details.
