@@ -136,12 +136,6 @@ High‑level steps:
   - Blueprint nodes hooked to backend and onchain RPC.
   - Tested end‑to‑end with @Arc testnet.
 
-Next steps you can take:
-
-- Add async Blueprint nodes that wait for backend responses and expose `OnSuccess(TxHash)` / `OnFailure(Error)` events.
-- Package this as a marketplace‑ready plugin.
-- Publish video tutorials / screenshots (and link them here or in `DOC.md`).
-
 ---
 ## License
 
