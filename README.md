@@ -136,6 +136,18 @@ High‑level steps:
   - Blueprint nodes hooked to backend and onchain RPC.
   - Tested end‑to‑end with @Arc testnet.
 
+## 💬 Feedback
+
+If you're an Unreal, game, or backend engineer, I’d love your input:
+
+- What would you need before using this in production?
+- What’s missing or could be improved?
+- Should this evolve into a full SDK?
+
+Feel free to open issues or PRs if you test it.
+
+Building in public — all feedback is appreciated.
+
 ---
 ## License
 
