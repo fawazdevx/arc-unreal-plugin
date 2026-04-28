@@ -147,7 +147,7 @@ If you're an Unreal, game, or backend engineer, I’d love your input:
 
 Feel free to open issues or PRs if you test it.
 
-Building in public — all feedback is appreciated.
+Building in public, all feedback is appreciated.
 
 ---
 ## License
