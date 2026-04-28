@@ -330,10 +330,5 @@ Things you’ll likely change:
 
 ---
 
-## 8. Where to Go From Here
-
-- Add async backend Blueprint nodes for better UX.
-- Add an example UE map/widget that demonstrates the full flow.
-- Publish a video walkthrough and link it from `SETUP.md`.
 
 If you use this setup, consider contributing back via issues/PRs.
